@@ -1,0 +1,3 @@
+# Release zips are 400+ MB: GitHub refuses files over 100 MB, so they ship as release assets, never commits.
+*.zip
+/releases/

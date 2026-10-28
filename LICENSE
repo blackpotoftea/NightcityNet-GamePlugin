@@ -1,0 +1,33 @@
+NightCityNet Private Development License
+
+Copyright (c) 2026 blackpotoftea. All rights reserved.
+
+NightCityNet is currently a private-source project. This license grants only the
+following permissions:
+
+1. Players may download, install, and run unmodified official NightCityNet
+   releases for personal, non-commercial use.
+2. Contributors expressly authorized by the copyright holder may access, copy,
+   and modify the source solely to develop contributions for NightCityNet.
+
+No other permission is granted. Without prior written permission from the
+copyright holder, you may not publish, redistribute, sublicense, sell, place
+behind a paywall, monetize, or create and distribute a derivative of the source
+code, an official release, or any unreleased build or asset.
+
+Repository access does not grant permission to publish or redistribute its
+contents. Permissions for contributors end when their repository access ends,
+except for rights they retain in code they authored themselves and the rights
+granted for accepted contributions in CONTRIBUTING.md.
+
+Commercial use, redistribution, or another exception requires explicit written
+permission: blackpotoftea.mods@gmail.com.
+
+NightCityNet is provided "as is," without warranty of any kind, express or
+implied, including warranties of merchantability, fitness for a particular
+purpose, and non-infringement. In no event shall the copyright holder be liable
+for any claim, damages, or other liability arising from the software or its use.
+
+Third-party code, binaries, models, data, and other components retain their own
+licenses and terms. Those terms are identified in licenses/THIRD_PARTY_NOTICES.md
+and are not changed or overridden by this license.
